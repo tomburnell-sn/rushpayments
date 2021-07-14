@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Requested Rush Payments Config">cfc5c10a40187810f7ab0e2b397323f9</app_config>
+        <description/>
+        <fields>globalSearchViewConfigId</fields>
+        <icon/>
+        <name>Search</name>
+        <optional_parameters>searchTerm</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>search</route_type>
+        <screen_type display_value="Search">c3c5c10af3187810ef91037f5bcf8bfb</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-05-24 20:00:25</sys_created_on>
+        <sys_id>07c5c10a29187810d01282abb321a0fb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search</sys_name>
+        <sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope>
+        <sys_update_name>sys_ux_app_route_07c5c10a29187810d01282abb321a0fb</sys_update_name>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-05-24 20:00:25</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=07c5c10a29187810d01282abb321a0fb"/>
+</record_update>

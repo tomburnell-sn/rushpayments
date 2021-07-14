@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Rush Pay Item Stream">bdb2fb8287897050abc3ece83cbb359a</item_stream>
+        <master_item display_value="Rush Pay master_item">b5b2fb8287897050abc3ece83cbb359d</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-07-01 15:23:00</sys_created_on>
+        <sys_id>fdb2fb8287897050abc3ece83cbb359e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_fdb2fb8287897050abc3ece83cbb359e</sys_update_name>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-07-01 15:23:00</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

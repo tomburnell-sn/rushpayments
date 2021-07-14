@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_provider_application">
+    <sys_cs_provider_application action="INSERT_OR_UPDATE">
+        <inbound_id>9ddbe16d-fe4a-46f5-8f1d-29cc1908a3ca</inbound_id>
+        <message_auth display_value="">ea663214873cbc50f8f862473cbb35ef</message_auth>
+        <name>jwsndemo</name>
+        <provider display_value="VA Teams Adapter Provider">e177dbf3530110102f40ddeeff7b12a7</provider>
+        <short_description/>
+        <sys_class_name>sys_cs_provider_application</sys_class_name>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-06-13 14:14:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>f2667254873cbc50f8f862473cbb3586</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>jwsndemo</sys_name>
+        <sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope>
+        <sys_update_name>sys_cs_provider_application_f2667254873cbc50f8f862473cbb3586</sys_update_name>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-06-13 14:14:28</sys_updated_on>
+        <trusted_media_domains/>
+    </sys_cs_provider_application>
+</record_update>

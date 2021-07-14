@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="DELETE">
+        <sc_cat_item display_value="Blah">ce2f779a8701f050abc3ece83cbb35b3</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-07-02 10:56:09</sys_created_on>
+        <sys_id>ee3ff71e8701f050abc3ece83cbb352e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Blah.SNC External</sys_name>
+        <sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_ee3ff71e8701f050abc3ece83cbb352e</sys_update_name>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-07-02 10:56:09</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</application>
+        <file_path/>
+        <instance_id>0a0163e8dbd87010431011f84896198f</instance_id>
+        <instance_name>jwsesmdemo</instance_name>
+        <name>sc_cat_item_user_criteria_no_mtom_ee3ff71e8701f050abc3ece83cbb352e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom"><sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Blah">ce2f779a8701f050abc3ece83cbb35b3</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name><sys_created_by>jules.weijters</sys_created_by><sys_created_on>2021-07-02 10:56:09</sys_created_on><sys_id>ee3ff71e8701f050abc3ece83cbb352e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Blah.SNC External</sys_name><sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package><sys_policy/><sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope><sys_update_name>sc_cat_item_user_criteria_no_mtom_ee3ff71e8701f050abc3ece83cbb352e</sys_update_name><sys_updated_by>jules.weijters</sys_updated_by><sys_updated_on>2021-07-02 10:56:09</sys_updated_on><user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria></sc_cat_item_user_criteria_no_mtom></record_update>]]></payload>
+        <payload_hash>-1747201712</payload_hash>
+        <record_name>Blah.SNC External</record_name>
+        <reverted_from/>
+        <source>6d800b3287303010f8f862473cbb35db</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-06-21 09:23:27</sys_created_on>
+        <sys_id>723ff71e8701f050abc3ece83cbb3552</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17a2de1be980000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Catalog Item Not Available for</type>
+        <update_guid>323ff71ea501f05035909148670f0652</update_guid>
+        <update_guid_history>323ff71ea501f05035909148670f0652:-1747201712</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">fa3ff71e8701f050abc3ece83cbb3556</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-07-02 10:56:09</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_no_mtom">sc_cat_item_user_criteria_no_mtom</sys_db_object>
+        <sys_id>25b31d1b5cb64442a0be61f04eb764b9</sys_id>
+        <sys_metadata>ee3ff71e8701f050abc3ece83cbb352e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Blah.SNC External</sys_name>
+        <sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package>
+        <sys_parent display_value="">ce2f779a8701f050abc3ece83cbb35b3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope>
+        <sys_scope_delete display_value="">3144920ba53a48b08be30eeae9f4fc40</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_ee3ff71e8701f050abc3ece83cbb352e</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_no_mtom_ee3ff71e8701f050abc3ece83cbb352e">723ff71e8701f050abc3ece83cbb3552</sys_update_version>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-07-02 10:56:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

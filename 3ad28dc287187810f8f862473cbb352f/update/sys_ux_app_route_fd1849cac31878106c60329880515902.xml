@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Rush Payment Request Config">f51849cafa187810d4665a927c707b02</app_config>
+        <description/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>Record</name>
+        <optional_parameters>query,extraParams</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>record</route_type>
+        <screen_type display_value="Record">bd1849ca4118781045072aa3b4255702</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-05-24 20:10:26</sys_created_on>
+        <sys_id>fd1849cac31878106c60329880515902</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Record</sys_name>
+        <sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope>
+        <sys_update_name>sys_ux_app_route_fd1849cac31878106c60329880515902</sys_update_name>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-05-24 20:10:26</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=fd1849cac31878106c60329880515902"/>
+</record_update>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>f51849cafa187810d4665a927c707b02</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <path>rpay</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-05-24 20:10:26</sys_created_on>
+        <sys_id>f11849ca90187810ab5a14066f4c9004</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rush Payment Request</sys_name>
+        <sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope>
+        <sys_update_name>sys_ux_page_registry_f11849ca90187810ab5a14066f4c9004</sys_update_name>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-05-24 20:10:26</sys_updated_on>
+        <title>Rush Payment Request</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</application>
+        <file_path/>
+        <instance_id>0a0163e8dbd87010431011f84896198f</instance_id>
+        <instance_name>jwsesmdemo</instance_name>
+        <name>sys_ux_page_registry_f11849ca90187810ab5a14066f4c9004</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>f51849cafa187810d4665a927c707b02</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><path>rpay</path><root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>jules.weijters</sys_created_by><sys_created_on>2021-05-24 20:10:26</sys_created_on><sys_id>f11849ca90187810ab5a14066f4c9004</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Rush Payment Request</sys_name><sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package><sys_policy/><sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope><sys_update_name>sys_ux_page_registry_f11849ca90187810ab5a14066f4c9004</sys_update_name><sys_updated_by>jules.weijters</sys_updated_by><sys_updated_on>2021-05-24 20:10:26</sys_updated_on><title>Rush Payment Request</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-1527634232</payload_hash>
+        <record_name>Rush Payment Request</record_name>
+        <reverted_from/>
+        <source>90ade32087103010f8f862473cbb35a4</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-05-20 16:22:48</sys_created_on>
+        <sys_id>db3845ca87187810f8f862473cbb35f9</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1798a962bc00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>9b3845ca9f1878108c88dd566af764f9</update_guid>
+        <update_guid_history>9b3845ca9f1878108c88dd566af764f9:-1527634232</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-05-24 20:11:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>0c84647275c8474084be98bfc60a6e40</sys_id>
+        <sys_metadata>f11849ca90187810ab5a14066f4c9004</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rush Payment Request</sys_name>
+        <sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope>
+        <sys_scope_delete display_value="">3144920ba53a48b08be30eeae9f4fc40</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_f11849ca90187810ab5a14066f4c9004</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_f11849ca90187810ab5a14066f4c9004">db3845ca87187810f8f862473cbb35f9</sys_update_version>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-05-24 20:11:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

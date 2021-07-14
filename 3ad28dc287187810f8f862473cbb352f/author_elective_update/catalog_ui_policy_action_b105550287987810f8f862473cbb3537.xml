@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Rush Payment Request">2ddacdce87187810f8f862473cbb35d0</catalog_item>
+        <catalog_variable>IO:9b61154a87587810f8f862473cbb3519</catalog_variable>
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-05-24 21:06:58</sys_created_on>
+        <sys_id>b105550287987810f8f862473cbb3537</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>bank_account</sys_name>
+        <sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_b105550287987810f8f862473cbb3537</sys_update_name>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-05-24 21:08:21</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Make 'bank_account' hidden depending on 'reason' &amp; 'short_description'">5de4dd4e87587810f8f862473cbb35de</ui_policy>
+        <variable>bank_account</variable>
+        <variable_set/>
+        <visible>false</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</application>
+        <file_path/>
+        <instance_id>0a0163e8dbd87010431011f84896198f</instance_id>
+        <instance_name>jwsesmdemo</instance_name>
+        <name>catalog_ui_policy_action_b105550287987810f8f862473cbb3537</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Rush Payment Request">2ddacdce87187810f8f862473cbb35d0</catalog_item><catalog_variable>IO:9b61154a87587810f8f862473cbb3519</catalog_variable><cleared>true</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>jules.weijters</sys_created_by><sys_created_on>2021-05-24 21:06:58</sys_created_on><sys_id>b105550287987810f8f862473cbb3537</sys_id><sys_mod_count>1</sys_mod_count><sys_name>bank_account</sys_name><sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package><sys_policy/><sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope><sys_update_name>catalog_ui_policy_action_b105550287987810f8f862473cbb3537</sys_update_name><sys_updated_by>jules.weijters</sys_updated_by><sys_updated_on>2021-05-24 21:08:21</sys_updated_on><table/><ui_policy display_value="Make 'bank_account' hidden depending on 'reason' &amp; 'short_description'">5de4dd4e87587810f8f862473cbb35de</ui_policy><variable>bank_account</variable><variable_set/><visible>false</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>1148538451</payload_hash>
+        <record_name>bank_account</record_name>
+        <reverted_from/>
+        <source>f6d28dc287187810f8f862473cbb3532</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-05-24 21:08:21</sys_created_on>
+        <sys_id>9655d90287987810f8f862473cbb359d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179a0350bce0000001</sys_recorded_at>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-05-24 21:08:21</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>9a55d902bb987810448208887298e89c</update_guid>
+        <update_guid_history>9a55d902bb987810448208887298e89c:1148538451,350555028f98781073ff71c9ba75ca3a:-70075388</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">dbe5194287987810f8f862473cbb35da</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-05-24 21:10:53</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>4db592e353c242e8a410e7463cf81c40</sys_id>
+        <sys_metadata>b105550287987810f8f862473cbb3537</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bank_account</sys_name>
+        <sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope>
+        <sys_scope_delete display_value="">3144920ba53a48b08be30eeae9f4fc40</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_b105550287987810f8f862473cbb3537</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_b105550287987810f8f862473cbb3537">9655d90287987810f8f862473cbb359d</sys_update_version>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-05-24 21:10:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

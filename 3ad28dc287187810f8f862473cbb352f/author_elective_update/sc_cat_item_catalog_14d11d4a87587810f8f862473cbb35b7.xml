@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Rush Payment Request">2ddacdce87187810f8f862473cbb35d0</sc_cat_item>
+        <sc_catalog display_value="Finance Services">2f2bc6381bdaa8104bacff751a4bcb76</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-05-24 20:52:55</sys_created_on>
+        <sys_id>14d11d4a87587810f8f862473cbb35b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Finance Services.Rush Payment Request</sys_name>
+        <sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_14d11d4a87587810f8f862473cbb35b7</sys_update_name>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-05-24 20:52:55</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</application>
+        <file_path/>
+        <instance_id>0a0163e8dbd87010431011f84896198f</instance_id>
+        <instance_name>jwsesmdemo</instance_name>
+        <name>sc_cat_item_catalog_14d11d4a87587810f8f862473cbb35b7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Rush Payment Request">2ddacdce87187810f8f862473cbb35d0</sc_cat_item><sc_catalog display_value="Finance Services">2f2bc6381bdaa8104bacff751a4bcb76</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>jules.weijters</sys_created_by><sys_created_on>2021-05-24 20:52:55</sys_created_on><sys_id>14d11d4a87587810f8f862473cbb35b7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Finance Services.Rush Payment Request</sys_name><sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package><sys_policy/><sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope><sys_update_name>sc_cat_item_catalog_14d11d4a87587810f8f862473cbb35b7</sys_update_name><sys_updated_by>jules.weijters</sys_updated_by><sys_updated_on>2021-05-24 20:52:55</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>620489773</payload_hash>
+        <record_name>Finance Services.Rush Payment Request</record_name>
+        <reverted_from/>
+        <source>f6d28dc287187810f8f862473cbb3532</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-05-24 20:52:55</sys_created_on>
+        <sys_id>d8d11d4a87587810f8f862473cbb35bd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179a026ebde0000001</sys_recorded_at>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-05-24 20:52:55</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>10d11d4a98587810c54bc87fc4fec5bd</update_guid>
+        <update_guid_history>10d11d4a98587810c54bc87fc4fec5bd:620489773</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">0c42558a87587810f8f862473cbb359e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-05-24 20:54:49</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>1dc0cb7241ba468a8002f02da1d96559</sys_id>
+        <sys_metadata>14d11d4a87587810f8f862473cbb35b7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Finance Services.Rush Payment Request</sys_name>
+        <sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package>
+        <sys_parent display_value="Rush Payment Request">2ddacdce87187810f8f862473cbb35d0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope>
+        <sys_scope_delete display_value="">3144920ba53a48b08be30eeae9f4fc40</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_14d11d4a87587810f8f862473cbb35b7</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_14d11d4a87587810f8f862473cbb35b7">d8d11d4a87587810f8f862473cbb35bd</sys_update_version>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-05-24 20:54:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

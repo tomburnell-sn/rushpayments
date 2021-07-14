@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_cross_rush_pay_2_rpay</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Rush Pay Form Screen">8ab1738e87547810abc3ece83cbb35a4</embedded_screen>
+        <item_view/>
+        <name>Rush Pay master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-05-25 08:31:34</sys_created_on>
+        <sys_id>46b1738e87547810abc3ece83cbb35ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rush Pay master_item</sys_name>
+        <sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope>
+        <sys_update_name>sys_sg_master_item_46b1738e87547810abc3ece83cbb35ac</sys_update_name>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-05-25 08:31:34</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Rush Pay List Screen View Config">86b1738e87547810abc3ece83cbb350a</view_config>
+    </sys_sg_master_item>
+</record_update>

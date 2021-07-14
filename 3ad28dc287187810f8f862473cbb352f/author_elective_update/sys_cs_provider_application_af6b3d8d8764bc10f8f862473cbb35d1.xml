@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_provider_application">
+    <sys_cs_provider_application action="DELETE">
+        <inbound_id>9ddbe16d-fe4a-46f5-8f1d-29cc1908a3ca</inbound_id>
+        <message_auth/>
+        <name>jwsndemo</name>
+        <provider display_value="VA Teams Adapter Provider">e177dbf3530110102f40ddeeff7b12a7</provider>
+        <short_description/>
+        <sys_class_name>sys_cs_provider_application</sys_class_name>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-06-03 07:36:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>af6b3d8d8764bc10f8f862473cbb35d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>jwsndemo</sys_name>
+        <sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope>
+        <sys_update_name>sys_cs_provider_application_af6b3d8d8764bc10f8f862473cbb35d1</sys_update_name>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-06-03 07:36:30</sys_updated_on>
+        <trusted_media_domains/>
+    </sys_cs_provider_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</application>
+        <file_path/>
+        <instance_id>0a0163e8dbd87010431011f84896198f</instance_id>
+        <instance_name>jwsesmdemo</instance_name>
+        <name>sys_cs_provider_application_af6b3d8d8764bc10f8f862473cbb35d1</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_provider_application"><sys_cs_provider_application action="INSERT_OR_UPDATE"><inbound_id>9ddbe16d-fe4a-46f5-8f1d-29cc1908a3ca</inbound_id><message_auth/><name>jwsndemo</name><provider display_value="VA Teams Adapter Provider">e177dbf3530110102f40ddeeff7b12a7</provider><short_description/><sys_class_name>sys_cs_provider_application</sys_class_name><sys_created_by>jules.weijters</sys_created_by><sys_created_on>2021-06-03 07:36:30</sys_created_on><sys_domain>global</sys_domain><sys_id>af6b3d8d8764bc10f8f862473cbb35d1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>jwsndemo</sys_name><sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package><sys_policy/><sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope><sys_update_name>sys_cs_provider_application_af6b3d8d8764bc10f8f862473cbb35d1</sys_update_name><sys_updated_by>jules.weijters</sys_updated_by><sys_updated_on>2021-06-03 07:36:30</sys_updated_on><trusted_media_domains/></sys_cs_provider_application></record_update>]]></payload>
+        <payload_hash>-328693043</payload_hash>
+        <record_name>jwsndemo</record_name>
+        <reverted_from/>
+        <source>f6d28dc287187810f8f862473cbb3532</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-06-03 07:41:58</sys_created_on>
+        <sys_id>97ac310987ec3850abc3ece83cbb3571</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179d0d25e540000001</sys_recorded_at>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-06-03 07:41:58</sys_updated_on>
+        <type>Provider Channel Identity</type>
+        <update_guid>e76b3d8dc964bc103e77909f58a691d9</update_guid>
+        <update_guid_history>e76b3d8dc964bc103e77909f58a691d9:-629745866,e76b3d8dc964bc103e77909f58a691d9:-629745866</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-06-03 07:45:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_cs_provider_application">sys_cs_provider_application</sys_db_object>
+        <sys_id>6352bdf8669d424eae6484f46325f9e4</sys_id>
+        <sys_metadata>af6b3d8d8764bc10f8f862473cbb35d1</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>jwsndemo</sys_name>
+        <sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope>
+        <sys_scope_delete display_value="">3144920ba53a48b08be30eeae9f4fc40</sys_scope_delete>
+        <sys_update_name>sys_cs_provider_application_af6b3d8d8764bc10f8f862473cbb35d1</sys_update_name>
+        <sys_update_version display_value="sys_cs_provider_application_af6b3d8d8764bc10f8f862473cbb35d1">97ac310987ec3850abc3ece83cbb3571</sys_update_version>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-06-03 07:45:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

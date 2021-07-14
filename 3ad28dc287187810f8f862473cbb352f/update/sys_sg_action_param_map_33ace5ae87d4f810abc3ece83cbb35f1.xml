@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Rush Pay)">33ace5ae87d4f810abc3ece83cbb35c8</button>
+        <item_parameter display_value="Rush Pay location">bbace5ae87d4f810abc3ece83cbb35c1</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>jules.weijters</sys_created_by>
+        <sys_created_on>2021-05-26 12:07:17</sys_created_on>
+        <sys_id>33ace5ae87d4f810abc3ece83cbb35f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bbace5ae87d4f810abc3ece83cbb35c1</sys_name>
+        <sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_33ace5ae87d4f810abc3ece83cbb35f1</sys_update_name>
+        <sys_updated_by>jules.weijters</sys_updated_by>
+        <sys_updated_on>2021-05-26 12:07:17</sys_updated_on>
+        <ui_parameter display_value="Location">fbace5ae87d4f810abc3ece83cbb35d6</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

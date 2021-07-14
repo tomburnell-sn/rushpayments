@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Rush Pay" language="en" table="x_cross_rush_pay_2_rpay">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Rush Pay</label>
+            <language>en</language>
+            <name>x_cross_rush_pay_2_rpay</name>
+            <plural>Rush Pays</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jules.weijters</sys_created_by>
+            <sys_created_on>2021-05-24 19:49:42</sys_created_on>
+            <sys_id>4a53090687187810f8f862473cbb3534</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Rush Pay</sys_name>
+            <sys_package display_value="Rush Payment Request" source="x_cross_rush_pay_2">3ad28dc287187810f8f862473cbb352f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rush Payment Request">3ad28dc287187810f8f862473cbb352f</sys_scope>
+            <sys_update_name>sys_documentation_x_cross_rush_pay_2_rpay__en</sys_update_name>
+            <sys_updated_by>jules.weijters</sys_updated_by>
+            <sys_updated_on>2021-05-24 20:10:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

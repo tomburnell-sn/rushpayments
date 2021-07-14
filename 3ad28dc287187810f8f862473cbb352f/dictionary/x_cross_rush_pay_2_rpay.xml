@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Rush Pay" max_length="40" name="x_cross_rush_pay_2_rpay" sizeclass="4" type="collection">
+        <element label="Bank Account" max_length="40" name="bank_account" type="string"/>
+        <element label="Bank Account Holder" max_length="100" name="bank_account_holder" type="string"/>
+        <element label="Notification" max_length="40" name="notification" type="glide_date"/>
+        <element choice="3" label="Reason" max_length="40" name="reason" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Late Payment" sequence="10" value="late_payment"/>
+                <element inactive_on_update="false" label="Urgent Order" sequence="20" value="urgent_order"/>
+                <element inactive_on_update="false" label="Other" sequence="30" value="other"/>
+            </choice>
+        </element>
+        <element label="Related Training" max_length="32" name="related_training" reference="x_cross_training_course" type="reference"/>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="In-progress" sequence="10" value="in_progress"/>
+                <element inactive_on_update="false" label="In approval" sequence="20" value="in_approval"/>
+            </choice>
+        </element>
+    </element>
+</database>
